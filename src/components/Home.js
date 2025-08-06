@@ -242,7 +242,7 @@ export default function Home() {
                 <div id="Contact-Heading">Let's work together</div>
                 <div id="Contact-Email-Box">
                     <span id="Contact-Email-Logo"><img src={email} alt="" /></span>
-                    <a target='_blank' rel="noreferrer" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsLPtkPplWXGNsxVgSDZqgfXvgBgWXbDcwZDqWFrfwCWgBmkFBnXcQBlLcmJLDnMDxNSRLHg" id="Contact-Email-Text">piyushtyagi0006@gmail.com</a>
+                    <a target='_blank' rel="noreferrer" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsLPtkPplWXGNsxVgSDZqgfXvgBgWXbDcwZDqWFrfwCWgBmkFBnXcQBlLcmJLDnMDxNSRLHg" id="Contact-Email-Text">tyagipiyush105@gmail.com</a>
                 </div>
                 <div id="Contact-Logos">
                     <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/piyush-tyagi-32963a225/' id="Contact-Logo-1" className="Contact-Logo">in</a>
